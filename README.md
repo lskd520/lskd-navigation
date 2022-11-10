@@ -1,1 +1,1 @@
-# lskd-navigation
+# 导航页静态页面
