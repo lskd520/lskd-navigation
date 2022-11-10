@@ -19,7 +19,7 @@
             </div>
             <nav class="nav">
                 <div class="item active"><a href="https://lskd520.github.io/"><i class="iconfont icon-daohang2"></i>返回首页</a><i class="line"></i></div>
-                <div class="item active"><a href=""><i class="iconfont icon-daohang2"></i>孤桜导航</a><i class="line"></i></div>
+                <div class="item active"><a href=""><i class="iconfont icon-daohang2"></i>乱世狂刀导航</a><i class="line"></i></div>
                 <ul class="nav-item" id="navItem">
                     <li><a href="#infotools"><i class="iconfont icon-tool"></i>信息收集</a></li>
                     <li><a href="#traintools"><i class="iconfont icon-tool"></i>靶场实战</a></li>
